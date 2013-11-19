@@ -1,7 +1,7 @@
 vim-coccinelle
 ==============
 
-pathogen friendly vim syntax files for coccinelle.  
+pathogen friendly vim syntax files for coccinelle (http://coccinelle.lip6.fr/).  
 The vim files were written by Alexander Færøy, see https://github.com/ahf/vim.
 
 Copyright (c) 2009 Alexander Færøy  
